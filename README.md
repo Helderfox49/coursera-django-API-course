@@ -1,2 +1,2 @@
 # coursera-django-API-course
-Code from cpursera coursera course on Django API
+Code from coursera coursera course on Django API
